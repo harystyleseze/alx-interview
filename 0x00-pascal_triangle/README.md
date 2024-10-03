@@ -61,7 +61,7 @@ Example of Pascal’s Triangle for `n = 5`:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/alx-interview.git
+   git clone https://github.com/harystyleseze/alx-interview.git
    cd alx-interview/0x00-pascal_triangle
    ```
 
