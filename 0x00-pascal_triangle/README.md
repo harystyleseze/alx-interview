@@ -100,13 +100,8 @@ $ python3 0-main.py
 
 ## Author
 
-- **Your Name** - [GitHub](https://github.com/YOUR_USERNAME)
+- **Harrison Eze** - [GitHub](https://github.com/harystyleseze)
 
 ```
-
-### Instructions for Updating:
-- Replace `YOUR_USERNAME` with your actual GitHub username.
-- Customize the **Author** section if needed.
-- Update any other sections to reflect your project details.
 
 This `README.md` provides an overview, setup instructions, and an example of the output, helping users understand your Pascal’s Triangle project.
